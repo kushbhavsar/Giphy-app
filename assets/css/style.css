@@ -1,0 +1,28 @@
+.row {
+    display: flex;
+    flex-wrap: wrap;
+    padding: 0 4px;
+  }
+  
+   .column { 
+    flex: 33%;
+    max-width: 33%;
+    padding: 0 4px;
+  }
+  
+  .column img {
+    display: block;
+    float: left;
+    margin-top: 8px;
+  }
+
+  .cars-button {
+      margin-right: 5px;
+      margin-bottom: 5px;
+  }
+
+  #addCars {
+      margin-top: 10px;
+  }
+
+  
